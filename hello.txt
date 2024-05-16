@@ -1,2 +1,4 @@
 Hallo ich bin Damir.
 Notiz: Ich arbeite gerade gerade an meiner ersten GIT-Aufgabe.
+ 
+Klasse: 3TPIF
